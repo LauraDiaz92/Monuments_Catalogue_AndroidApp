@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">Monumentos_App</string>
+    <string name="cat_logo_de_monumentos">CATÁLOGO DE MONUMENTOS</string>
+    <string name="imagen_del_monumento">imagen del monumento</string>
+    <string name="ver_detalles">VER DETALLES</string>
+    <string name="ver_otro">VER OTRO</string>
+    <string name="ir_a_la_p_gina_principal">IR A LA PÁGINA PRINCIPAL</string>
+    <string name="imagen_2_pantalla">Imagen 2 pantalla</string>
+</resources>

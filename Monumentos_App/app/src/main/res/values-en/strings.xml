@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cat_logo_de_monumentos">MONUMENT´S CATALOGUE</string>
+    <string name="imagen_del_monumento">image of the monument</string>
+    <string name="ver_detalles">SHOW DETAILS</string>
+    <string name="ver_otro">SHOW ANOTHER</string>
+    <string name="ir_a_la_p_gina_principal">GO TO MAIN PAGE</string>
+    <string name="imagen_2_pantalla">Image 2 screen</string>
+</resources>
